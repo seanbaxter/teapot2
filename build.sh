@@ -1,0 +1,1 @@
+clang++ teapot2.cxx -o teapot2 -lGL -lgl3w -lglfw
